@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"yzhang.markdown-all-in-one",
+			"bierner.markdown-preview-github-styles",
+			"pkief.markdown-checkbox",
+			"davidanson.vscode-markdownlint"
+		]
+	},
+}
